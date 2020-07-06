@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CommonUtils">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/CommonUtils.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

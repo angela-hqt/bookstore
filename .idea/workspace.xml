@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="bookstore:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4322e9a1-c6b8-4a04-add5-cb11672c6c55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\胡绮桐\Desktop\cj信管\信息系统开发JAVA\8102181122  胡绮桐\bookstore" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\rep" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dnYahhqp0FAYnHvkIlMLffrOAK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\胡绮桐\Desktop\java\信息开发技术\bookstore\WebContent\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="bookstore" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.1" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="bookstore:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_bookstore" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59229" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="bookstore:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593673665807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="380" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1593673665807" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593074115904">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593074115904" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1594038791293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594038791293" />
+    <state x="884" y="290" width="273" height="280" key="Github.ShareDialog" timestamp="1594042143132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="884" y="290" width="273" height="280" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1594042143132" />
+    <state x="670" y="97" key="Github.UntrackedFilesDialog" timestamp="1594039008644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="670" y="97" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594039008644" />
+    <state width="664" height="141" key="GridCell.Tab.0.bottom" timestamp="1594042147794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="664" height="141" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594042147794" />
+    <state width="664" height="141" key="GridCell.Tab.0.center" timestamp="1594042147793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="664" height="141" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594042147793" />
+    <state width="664" height="141" key="GridCell.Tab.0.left" timestamp="1594042147793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="664" height="141" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594042147793" />
+    <state width="664" height="141" key="GridCell.Tab.0.right" timestamp="1594042147793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="664" height="141" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594042147793" />
+    <state width="664" height="141" key="GridCell.Tab.1.bottom" timestamp="1594042147794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="664" height="141" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594042147794" />
+    <state width="664" height="141" key="GridCell.Tab.1.center" timestamp="1594042147794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="664" height="141" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594042147794" />
+    <state width="664" height="141" key="GridCell.Tab.1.left" timestamp="1594042147794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="664" height="141" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594042147794" />
+    <state width="664" height="141" key="GridCell.Tab.1.right" timestamp="1594042147794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="664" height="141" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594042147794" />
+    <state width="664" height="141" key="GridCell.Tab.2.bottom" timestamp="1594042147795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="664" height="141" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594042147795" />
+    <state width="664" height="141" key="GridCell.Tab.2.center" timestamp="1594042147794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="664" height="141" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1594042147794" />
+    <state width="664" height="141" key="GridCell.Tab.2.left" timestamp="1594042147794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="664" height="141" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1594042147794" />
+    <state width="664" height="141" key="GridCell.Tab.2.right" timestamp="1594042147794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="664" height="141" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1594042147794" />
+    <state x="349" y="150" key="IDE.errors.dialog" timestamp="1593673535949">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="150" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1593673535949" />
+    <state x="405" y="0" key="SettingsEditor" timestamp="1593673649655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="405" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593673649655" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1593332847877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593332847877" />
+    <state x="817" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594042068536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="817" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1594042068536" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/angela/bookstore/book/dao/BookDao.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
